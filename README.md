@@ -20,4 +20,4 @@ The Image Search App utilizes the Unsplash API to provide users with a platform 
 # Configuration
 
 
-The app uses the Unsplash API to fetch images. To configure the API access, obtain an API key from the Unsplash Developer portal and replace the accessKey variable in the main.js file with your API key:
+The app uses the Unsplash API to fetch images. To configure the API access, obtain an API key from the [Unsplash Developer](https://unsplash.com/developers) portal and replace the accessKey variable in the main.js file with your API key:
